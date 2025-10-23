@@ -72,7 +72,7 @@ Enter your choice: 2
 Enter Account Number: 12345
 Enter PIN: ****
 
-Welcome, John Doe!
+Welcome, xxxxxxxx!
 
 1. Deposit Money
 2. Withdraw Money
@@ -94,9 +94,9 @@ Integrate database (MySQL / SQLite) for better data management
 
 Project by:
               NAME                                                                     ENROLLMENT NO.
-1.Atal Bihari Das                                                                  ADTU/0/2025-28/BCAM/051
-2.Abhraneel Chakranorty                                                            ADTU/0/2025-28/BCAM/042
-3.Abed Jafor                                                                       ADTU/0/2025-28/BCAM/036
-4.Naitik Gupta                                                                     ADTU/0/2025-28/BCAM/037
-5.Md. Nadim Akhtar Hussain                                                         ADTU/0/2025-28/BCAM/024
-6.Dari Talar                                                                       ADTU/0/2025-28/BCAM/025
+1.Atal Bihari Das                                                                  ADTU/0/2025-28/BCAM/051  
+2.Abhraneel Chakranorty                                                            ADTU/0/2025-28/BCAM/042  
+3.Abed Jafor                                                                       ADTU/0/2025-28/BCAM/036  
+4.Naitik Gupta                                                                     ADTU/0/2025-28/BCAM/037  
+5.Md. Nadim Akhtar Hussain                                                         ADTU/0/2025-28/BCAM/024  
+6.Dari Talar                                                                       ADTU/0/2025-28/BCAM/025  
