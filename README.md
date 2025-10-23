@@ -93,7 +93,7 @@ Integrate database (MySQL / SQLite) for better data management
 👨‍💻 Developers  
 
 Project by:
-              NAME                                                                     ENROLLMENT NO.
+              NAME                                         and                            ENROLLMENT NO.  
 1.Atal Bihari Das                                                                  ADTU/0/2025-28/BCAM/051  
 2.Abhraneel Chakranorty                                                            ADTU/0/2025-28/BCAM/042  
 3.Abed Jafor                                                                       ADTU/0/2025-28/BCAM/036  
